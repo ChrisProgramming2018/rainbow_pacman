@@ -1,1 +1,1 @@
-# rainbow_pacman
+# dqn_rainbow
